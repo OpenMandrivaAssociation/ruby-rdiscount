@@ -5,7 +5,7 @@ Name:		ruby-%{oname}
 # (proyvind): stick with 1.3.1.1 for now as it's explicitly required by gitorious...
 Version:	1.3.1.1
 Release:	%mkrel 1
-License:	Apache License
+License:	BSD
 Group:		Development/Ruby
 URL:		http://%{oname}.rubyforge.org/
 Source0:	http://gems.rubyforge.org/gems/%{oname}-%{version}.gem
