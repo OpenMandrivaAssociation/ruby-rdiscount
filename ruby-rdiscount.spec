@@ -4,7 +4,7 @@ Summary:	Discount (For Ruby) Implementation of John Gruber's Markdown
 Name:		ruby-%{oname}
 # (proyvind): stick with 1.3.1.1 for now as it's explicitly required by gitorious...
 Version:	1.3.1.1
-Release:	%mkrel 1
+Release:	%mkrel 2
 License:	BSD
 Group:		Development/Ruby
 URL:		http://%{oname}.rubyforge.org/
